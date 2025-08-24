@@ -418,3 +418,12 @@ footer {
         padding: 40px 0;
     }
 }
+@media (max-width: 400px) {
+  .hero h1 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+  }
+  .hero p {
+    font-size: 1rem;
+  }
+}
