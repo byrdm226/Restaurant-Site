@@ -58,7 +58,7 @@
             description: "Classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cream",
             price: "$8.99",
             category: "desserts",
-            image: "images/Tiramisu.jpg"
+            image: "images/tiramisu.jpg"
         }
     ];
 
@@ -136,3 +136,4 @@
         });
     }
 });
+
